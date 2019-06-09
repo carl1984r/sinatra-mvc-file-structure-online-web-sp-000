@@ -7,4 +7,5 @@ def initialize(name, type, age)
   @type = type
   @age = age
 end
+
 end
